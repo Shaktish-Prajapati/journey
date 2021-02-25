@@ -1,0 +1,17 @@
+CLIENT
+npx create-react-app .
+axios, redux, redux-thunk, moment, react-file-base64
+
+
+
+
+
+// SERVER
+mongoose, express, cors, body-parser, nodemon
+
+
+
+
+
+
+
